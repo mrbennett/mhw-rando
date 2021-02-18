@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "main" {
-  name     = "mhwrando"
+  name     = "mhw-rando"
   location = "West Europe"
 }
