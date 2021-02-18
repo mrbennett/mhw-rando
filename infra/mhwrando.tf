@@ -22,6 +22,6 @@ resource "azurerm_app_service" "mhwrando" {
 
   site_config {
     linux_fx_version = "PYTHON|3.8"
-    scm_type       = "None"
+    scm_type         = "None"
   }
 }
