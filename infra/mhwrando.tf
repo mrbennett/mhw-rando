@@ -21,7 +21,7 @@ resource "azurerm_app_service" "mhwrando" {
   app_service_plan_id = azurerm_app_service_plan.mhwrando.id
 
   site_config {
-    python_version = "3.4"
-    scm_type       = "None"
+    linux_fx_version = "PYTHON|3.8"
+    scm_type         = "None"
   }
 }
