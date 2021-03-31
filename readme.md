@@ -1,6 +1,6 @@
 # mhw-rando
 
-A (very) simple discord bot which finds you a random monster to hunt in monster hunter world: iceborne and a random weapon to hunt it with
+A simple discord bot which finds you a random monster to hunt in monster hunter world: iceborne and a random weapon to hunt it with
 
 ## Usage
 
